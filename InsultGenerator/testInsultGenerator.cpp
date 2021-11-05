@@ -20,7 +20,7 @@ int main() {
 	vector<string> insults;
 	clock_t start=0, finish=0;
 
-	// load all the source phrases from the InsultsSource.txt
+	// load all source phrases from InsultsSource.txt
 	try {
 		ig.initialize();
 	} catch (FileException& e) {

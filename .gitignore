@@ -4,11 +4,11 @@
 # Desktop Services Store
 *.DS_Store
 
-# Object files
+# Object Files
 *.o
 
 # Executables
 *.out
 
-# Debug files
+# Debug Files
 *.dSYM/

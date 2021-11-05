@@ -1,4 +1,8 @@
-// Author: Logan Copeland
+/*
+File: shell.c
+Author: Logan Copeland
+Description: Basic shell program
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -64,7 +68,7 @@ int main() {
 //          charPtr     pointer to string
 //          skip	    character to skip
 //
-// Returns: A pointer to first character after the given skipped character is returned.
+// Returns: A pointer to the first character after the given skipped character is returned.
 //          If the first character of the string is not the given skip character or the 
 //          given skip character is the null charcter, the passed pointer is returned
 //-
